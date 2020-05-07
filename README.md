@@ -1,5 +1,5 @@
 # 说明
-  #### jar文件夹中时打包好的jar文件
+  #### jar下载 https://github.com/1163250377/public/releases/download/v1.0/address-analysis.jar
   #### address_analysis文件夹可直接用eclipse打开
 ## 项目说明
   #### 1.根据一个地址获取这个地址的5级行政编码
